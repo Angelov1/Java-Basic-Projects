@@ -22,7 +22,7 @@ Then the computer is selected random element between these three and after that 
 ______________________________________________________________________________________
 Technologies used to create the game:
 
-• Java
+• Java.
 
 ______________________________________________________________________________________
 (Source Code ->) https://github.com/Angelov1/Java-Basic-Projects/blob/main/Rock-Paper-Scissors
@@ -35,7 +35,7 @@ Live demo: https://replit.com/@Angelov11/Rock-Paper-Scissors-Game#Main.java
 
 
 ______________________________________________________________________________________
-Screenshots
+Screenshots:
 
 ![image](https://user-images.githubusercontent.com/117378467/203858352-d4965e4f-b708-4726-a596-d47612295e99.png)
 
