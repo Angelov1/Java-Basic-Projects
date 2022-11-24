@@ -6,7 +6,7 @@ This is a project about a small game which is called "Rock Paper Scissors".
 ______________________________________________________________________________________
 Well... What is done in game? Game explanation: 1st - This game is played between two players and they chosed one of all three elements: Rock, Paper, Scissors and of the rules of the game is determined the winner. 
 
-_______________________________________________________________________________________
+______________________________________________________________________________________
 This is the rules table:
 
 ![image](https://user-images.githubusercontent.com/117378467/203854666-7e3de44a-8bca-40d9-9223-2520698b1d05.png)
