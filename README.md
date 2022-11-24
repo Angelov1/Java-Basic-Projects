@@ -12,7 +12,8 @@ This is the rules table:
 ![image](https://user-images.githubusercontent.com/117378467/203854666-7e3de44a-8bca-40d9-9223-2520698b1d05.png)
 
 
-______________________________________________________________________________________Input and Output:
+_____________________________________________________________________________________
+Input and Output:
 
 Choose letter: "r)ock", "p)aper","s)cissors" then press enter.
 
