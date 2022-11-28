@@ -4,6 +4,7 @@ This is a project about a small game which is called "Rock Paper Scissors".
 б
 в
 г
+д
 
 ![image](https://user-images.githubusercontent.com/117378467/203860825-5c7c97ca-f4fc-43d8-af84-bc03e43487b5.png)
 
